@@ -2,6 +2,7 @@ package workshop;
 
 import org.junit.Assert;
 import org.junit.Test;
+import workshop.calculator.nCalculator;
 
 public class nCalculatorTest {
 

@@ -1,4 +1,4 @@
-package workshop;
+package workshop.login;
 
 import java.util.HashMap;
 
@@ -6,7 +6,7 @@ public class nLoginManager {
 
     private final HashMap<String, String> userRepo;
 
-    nLoginManager(HashMap<String, String> userDb){
+    public nLoginManager(HashMap<String, String> userDb){
         this.userRepo = userDb;
     }
 

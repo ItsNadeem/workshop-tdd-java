@@ -3,6 +3,9 @@ package workshop;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import workshop.login.nEmptyPasswordThrowable;
+import workshop.login.nInvalidCredentialThrowable;
+import workshop.login.nLoginManager;
 
 import java.util.HashMap;
 

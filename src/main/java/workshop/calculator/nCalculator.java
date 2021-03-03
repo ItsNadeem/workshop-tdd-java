@@ -1,7 +1,7 @@
-package workshop;
+package workshop.calculator;
 
 public class nCalculator {
-    nCalculator() {
+    public nCalculator() {
 
     }
 
